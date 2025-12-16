@@ -4,11 +4,11 @@ This is our GitHub repository we used for our Capstone Project. In this reposito
 
 # Repo Contents
 ## Datasets
-- `citysegments_meters.csv`
-- `highways_segments_mn.csv`
-- `highwaysegments_fullstate.csv`
-- `mn_cities_50k_plus.csv`
-- `statesegments_meters.csv`
+- `citysegments_meters.csv` - interstate segments from only the Twin Cities ~ 1000 segments
+- `highways_segments_mn.csv` - interstate segments from MN, reduced to ~2000 segments
+- `highwaysegments_fullstate.csv` - interstate segments from the entire state of MN ~ 5000 segments
+- `mn_cities_50k_plus.csv` - first large dataset containing 50k+ highway segments from MN
+- `statesegments_meters.csv` - second test dataset containning only 20k segments from MN
 - `galaxies.csv` - Segmentation list of 1053 galaxies filaments
 - `test.csv` - 4 non-disjoint line segments in random orientation; no chains
 - `line.csv` - a simple chain of 4 line segments
